@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PersonalResearchAssistantV5.props" />
+</Project>

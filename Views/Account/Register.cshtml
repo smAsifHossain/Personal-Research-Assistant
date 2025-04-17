@@ -1,0 +1,52 @@
+﻿@model PersonalResearchAssistantV5.Models.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container">
+    <h2>Register</h2>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    <form asp-action="Register" method="post">
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input asp-for="Name" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="contact">Contact Number:</label>
+            <input asp-for="ContactNumber" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input asp-for="Email" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input asp-for="Password" type="password" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label>User Type:</label>
+            <select asp-for="UserType" class="form-control">
+                <option value="User">User</option>
+                <option value="Admin">Admin</option>
+            </select>
+        </div>
+
+        <hr />
+
+        <button type="submit" class="btn btn-success">Register</button>
+    </form>
+
+    <hr>
+
+    <p>Already have an account? <a asp-action="Login" asp-controller="Account">Login here</a></p>
+</div>

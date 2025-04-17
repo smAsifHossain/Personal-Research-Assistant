@@ -1,0 +1,397 @@
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\appsettings.Development.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\appsettings.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.staticwebassets.runtime.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.staticwebassets.endpoints.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.exe
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.deps.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.runtimeconfig.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.pdb
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.AssemblyInfoInputs.cache
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.AssemblyInfo.cs
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.csproj.CoreCompileInputs.cache
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.MvcApplicationPartsAssemblyInfo.cache
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.RazorAssemblyInfo.cache
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.RazorAssemblyInfo.cs
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\bundle\PersonalResearchAssistantV5.styles.css
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\projectbundle\PersonalResearchAssistantV5.bundle.scp.css
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.build.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.development.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.PersonalResearchAssistantV5.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.PersonalResearchAssistantV5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonalResearchAssistantV5.props
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonalResearchAssistantV5.props
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonalResearchAssistantV5.props
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\refint\PersonalResearchAssistantV5.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.pdb
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.genruntimeconfig.cache
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\ref\PersonalResearchAssistantV5.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Humanizer.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\MySqlConnector.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.CodeDom.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.csproj.AssemblyReference.cache
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\Personal.3E43F116.Up2Date
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.sourcelink.json
+E:\Softwares\cpp\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\appsettings.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.staticwebassets.runtime.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.staticwebassets.endpoints.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.exe
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.deps.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.runtimeconfig.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.pdb
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Humanizer.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\MySqlConnector.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.CodeDom.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.csproj.AssemblyReference.cache
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.AssemblyInfoInputs.cache
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.AssemblyInfo.cs
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.csproj.CoreCompileInputs.cache
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.RazorAssemblyInfo.cache
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.RazorAssemblyInfo.cs
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.sourcelink.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\bundle\PersonalResearchAssistantV5.styles.css
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\projectbundle\PersonalResearchAssistantV5.bundle.scp.css
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.PersonalResearchAssistantV5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.PersonalResearchAssistantV5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonalResearchAssistantV5.props
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonalResearchAssistantV5.props
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonalResearchAssistantV5.props
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\Personal.3E43F116.Up2Date
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\refint\PersonalResearchAssistantV5.dll
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.pdb
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.genruntimeconfig.cache
+D:\Personal Research Ass\4\PersonalResearchAssistantV5\obj\Debug\net8.0\ref\PersonalResearchAssistantV5.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.staticwebassets.runtime.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.staticwebassets.endpoints.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.exe
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.deps.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.runtimeconfig.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\PersonalResearchAssistantV5.pdb
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.AssemblyInfo.cs
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.sourcelink.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\bundle\PersonalResearchAssistantV5.styles.css
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\scopedcss\projectbundle\PersonalResearchAssistantV5.bundle.scp.css
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.PersonalResearchAssistantV5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.PersonalResearchAssistantV5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonalResearchAssistantV5.props
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonalResearchAssistantV5.props
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonalResearchAssistantV5.props
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\Personal.3E43F116.Up2Date
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\refint\PersonalResearchAssistantV5.dll
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.pdb
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\PersonalResearchAssistantV5.genruntimeconfig.cache
+C:\Users\User\Downloads\PersonalResearchAssistantV5 3\PersonalResearchAssistantV5\obj\Debug\net8.0\ref\PersonalResearchAssistantV5.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.Core.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.Data.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\System.Numerics.Tensors.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itextsharp.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Common.Logging.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\Common.Logging.Core.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.barcodes.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.forms.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.io.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.kernel.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.layout.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.pdfa.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.sign.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.styledxmlparser.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\itext.svg.dll
+E:\Softwares\cpp\PersonalResearchAssistantV5\bin\Debug\net8.0\BouncyCastle.Crypto.dll

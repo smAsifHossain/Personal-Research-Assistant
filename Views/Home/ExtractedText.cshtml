@@ -1,0 +1,59 @@
+﻿@model PersonalResearchAssistantV5.Models.ExtractTextViewModel
+
+@{
+    ViewData["Title"] = "Extracted Text Analysis";
+}
+
+<h5>Extracted Text Analysis for @Model.FileName</h5>
+
+<!-- Reference Metadata Section -->
+<h4>Reference Metadata:</h4>
+<table class="table table-bordered">
+    <tr>
+        <th>Title:</th>
+        <td>@(string.IsNullOrEmpty(Model.Title) || Model.Title == "Unknown" ? "Not Available" : Model.Title)</td>
+    </tr>
+    <tr>
+        <th>Author:</th>
+        <td>@(string.IsNullOrEmpty(Model.Author) || Model.Author == "Unknown" ? "Not Available" : Model.Author)</td>
+    </tr>
+    <tr>
+        <th>Publication Date:</th>
+        <td>@(string.IsNullOrEmpty(Model.PublicationDate) || Model.PublicationDate == "Unknown" ? "Not Available" : Model.PublicationDate)</td>
+    </tr>
+</table>
+
+<!-- Extracted Text Section -->
+<h4>Extracted Text:</h4>
+<div style="border:1px solid #ccc; padding:15px; background-color: #f9f9f9; max-height: 500px; overflow-y: auto; white-space: normal; font-family: Arial, sans-serif; line-height: 1.7;">
+    @Html.Raw(Model.ExtractedText)
+</div>
+
+<!-- Top Keywords & Frequency Section -->
+<h4>Top Keywords & Frequency:</h4>
+@if (!Model.KeywordFrequency.Any() || Model.KeywordFrequency.First().Value == 0)
+{
+    <p style="color: red;">No significant keywords found in this PDF.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Keyword</th>
+                <th>Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var keyword in Model.KeywordFrequency)
+            {
+                <tr>
+                    <td>@keyword.Key</td>
+                    <td>@keyword.Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a href="@Url.Action("UserHome", "Home")" class="btn btn-primary">Back</a>

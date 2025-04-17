@@ -1,0 +1,133 @@
+﻿@model PersonalResearchAssistantV5.Models.AdminHomeViewModel
+
+@{
+    ViewData["Title"] = "Admin Home";
+}
+
+<h2>Welcome, Admin!</h2>
+
+<hr />
+
+<div>
+    <form asp-action="Logout" asp-controller="Account" method="post" style="display:inline;">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+</div>
+
+<hr />
+
+<h3>Pending Registration Requests</h3>
+
+@if (Model.PendingUsers.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Contact Number</th>
+                <th>User Type</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.PendingUsers)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>@user.ContactNumber</td>
+                    <td>@user.UserType</td>
+                    <td>
+                        <form method="post" asp-action="ApproveUser" asp-controller="Home" style="display:inline;">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-success">Approve</button>
+                        </form>
+
+                        <form method="post" asp-action="DeclineUser" asp-controller="Home" style="display:inline;">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-danger">Decline</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No pending registration requests.</p>
+}
+
+<h3>Approved Users</h3>
+
+@if (Model.ApprovedUsers.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Contact Number</th>
+                <th>User Type</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.ApprovedUsers)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>@user.ContactNumber</td>
+                    <td>@user.UserType</td>
+                    <td>
+                        <form method="post" asp-action="DeleteUser" asp-controller="Home" style="display:inline;">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No approved users found.</p>
+}
+
+<h3>Uploaded PDFs</h3>
+
+@if (Model.UploadedPdfs.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Uploaded By</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pdf in Model.UploadedPdfs)
+            {
+                <tr>
+                    <td>@pdf.FileName</td>
+                    <td>@pdf.User?.Email</td>
+                    <td>
+                        <a href="@Url.Content("~/" + pdf.FilePath)" class="btn btn-info" target="_blank">View</a>
+                        <form method="post" asp-action="AdminDeletePdf" asp-controller="Pdf" style="display:inline;">
+                            <input type="hidden" name="pdfId" value="@pdf.Id" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No PDFs uploaded yet.</p>
+}
