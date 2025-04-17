@@ -2,6 +2,7 @@
 
 **Personal Research Assistant** is a role-based ASP.NET Core MVC web application that helps researchers organize their work. Users can register, login, upload research PDFs, extract content using NLP, and manage files through an intuitive interface. The system supports **Admin** and **User** roles with controlled access to functionalities.
 
+
 ---
 
 ## Features
@@ -16,13 +17,28 @@
 - **Smart Metadata Extraction from PDFs**
 - **Modern, Clean Interface with Alerts and Validations**
 
+
 ---
 
+## Project Interface Preview
 
-## Project Visualization:
+### Home Page
+![Homepage](wwwroot/screenshots/Homepage.png)
 
+### Login Page
+![Login](wwwroot/screenshots/Login.png)
 
+### Registration Page
+![Registration](wwwroot/screenshots/Registration.png)
 
+### User Dashboard
+![User Dashboard](wwwroot/screenshots/User_Dashboard.png)
+
+### Admin Dashboard
+![Admin Home](wwwroot/screenshots/Admin_Dashboard.png)
+
+### Metadata Extraction
+![PDF Extraction](wwwroot/screenshots/Keyword_Extraction.png)
 
 ---
 
@@ -96,31 +112,8 @@
 ## Author
 
 **S M Asif Hossain**  
-`https://github.com/smAsifHossain`  
-Project for **CS 800** – Wichita State University
+`https://github.com/smAsifHossain` 
 
 
-## Demo of the project
-
-### ✅ Home Page
-![Homepage](screenshots/Homepage.png)
-
-### ✅ Login Page
-![Login](screenshots/Picture%200.png)
-
-### 🧾 User Dashboard
-![User Home](screenshots/Picture%201.png)
-
-### 🛠️ Admin Panel
-![Admin Home](screenshots/Picture%202.png)
-
-### 📎 PDF Upload & View
-![Uploaded PDFs](screenshots/Picture%203.png)
-
-### 📘 Metadata Extraction
-![PDF Extraction](screenshots/Picture%204.png)
-
-### 🔐 Registration Form
-![Register](screenshots/Picture%205.png)
 
 ---
