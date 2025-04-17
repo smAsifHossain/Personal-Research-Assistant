@@ -1,1 +1,28 @@
-.vs/ 
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration
+*.json
+!appsettings.Development.json
+!appsettings.json
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Others
+*.db
+*.sqlite
+
+# Python files if any
+__pycache__/
+*.pyc
